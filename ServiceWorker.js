@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BlockRise-0.1.0";
 const contentToCache = [
-    "Build/BlockRise.loader.js",
-    "Build/BlockRise.framework.js",
-    "Build/BlockRise.data",
-    "Build/BlockRise.wasm",
+    "Build/BlockRiseBuild.loader.js",
+    "Build/BlockRiseBuild.framework.js",
+    "Build/BlockRiseBuild.data",
+    "Build/BlockRiseBuild.wasm",
     "TemplateData/style.css"
 
 ];
